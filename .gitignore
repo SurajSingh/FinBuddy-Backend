@@ -416,3 +416,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Local Development Settings
+appsettings.Development.json
+*.env
+*.env.local
+
+# Database Artifacts
+*.db
+*.db-shm
+*.db-wal
+*.sql
